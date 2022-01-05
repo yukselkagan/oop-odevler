@@ -1,5 +1,5 @@
 # oop-odevler
 
-Uml Diagrams
+UML Diagrams
 
 <img src="university/diagram.png" >
